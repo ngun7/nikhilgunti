@@ -19,8 +19,8 @@ Data Scientist Intern at Concat Systems | Computer Vision Researcher
 
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilgunti&show_icons=true" alt="nikhilgunti" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilgunti&layout=compact" alt="nikhilgunti" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilgunti&show_icons=true&theme=radical" alt="nikhilgunti" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilgunti&layout=compact&theme=radical" alt="nikhilgunti" />
   
   
 </p>
