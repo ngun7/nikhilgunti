@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **NLP stuff, enrolled in Deeplearning.ai NLP Specialization course**
 - 👯 I’m looking to collaborate on **solving problems in the field of Machine Learning & AI**
 - 🤔 I’m looking for help with **DS & Algorithms**
-- 💬 Ask me about **ML, Social Media Profile building, India,....**
+- 💬 Ask me about **anything...**
 - 📫 How to reach me: **https://nikhilgunti.github.io/**
 - 💻 All of my projects are available [here](https://github.com/nikhilgunti?tab=repositories)
 - 😄 Pronouns: **Nick**
