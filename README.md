@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋, I'm Nikhil Gunti</h1>
 
-<h3 align="center"> Data Scientist Intern at Concat Systems 💻  | Computer Vision Researcher ⚛️ </h3>
+<h3 align="center"> Data Scientist Intern at Concat Systems 💻   </h3>
 
 
 
@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning **NLP stuff, enrolled in Deeplearning.ai NLP Specialization course**
 - 👯 I’m looking to collaborate on **solving problems in the field of Machine Learning & AI**
 - 🤔 I’m looking for help with **DS & Algorithms**
-- 💬 Ask me about **anything...**
 - 📫 How to reach me: **https://nikhilgunti.github.io/**
 - 💻 All of my projects are available [here](https://github.com/nikhilgunti?tab=repositories)
 - 😄 Pronouns: **Nick**
