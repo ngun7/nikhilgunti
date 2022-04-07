@@ -1,11 +1,11 @@
 <h1 align="center"> Hi there 👋, I'm Nikhil Gunti</h1>
 
-<h3 align="center"> Data Scientist at Concat Systems 💻   </h3>
+<h3 align="center"> Data Scientist at Amazon 💻   </h3>
 
 
 
-- 🔭 I’m currently working on **building Computer Vision models for automotive industry**
-- 🌱 I’m currently learning **NLP and GCP machine learning stuff**
+- 🔭 I’m currently working on **building fraud prevention models for Identity theft management**
+- 🌱 I’m currently learning **NLP and AWS machine learning stuff**
 - 👯 I’m looking to collaborate on **solving problems in the field of Machine Learning & AI**
 - 🤔 I’m looking for help with **DS & Algorithms**
 - 📫 How to reach me: **https://nikhilgunti.me/**
