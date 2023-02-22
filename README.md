@@ -4,8 +4,8 @@
 
 
 
-- 🔭 I’m currently working on **building fraud prevention models for Identity theft management**
-- 🌱 I’m currently learning **NLP and AWS machine learning stuff**
+- 🔭 I’m currently working on **Finetuning LLMs for business specific downstream tasks**
+- 🌱 I’m currently learning **NLP and AWS MLOps**
 - 👯 I’m looking to collaborate on **solving problems in the field of Machine Learning & AI**
 - 🤔 I’m looking for help with **DS & Algorithms**
 - 📫 How to reach me: **https://nikhilgunti.me/**
