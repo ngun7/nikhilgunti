@@ -14,12 +14,12 @@
 - ⚡ Fun fact: **I love dancing, wanna join me in Indian free style folk dance?**
 
 
-<img src="https://komarev.com/ghpvc/?username=nikhilgunti" alt="nikhilgunti" />
+<img src="https://komarev.com/ghpvc/?username=ngun7" alt="nikhilgunti" />
 
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilgunti&show_icons=true&theme=radical" alt="nikhilgunti" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilgunti&layout=compact&theme=radical" alt="nikhilgunti" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ngun7&show_icons=true&theme=radical" alt="nikhilgunti" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngun7&layout=compact&theme=radical" alt="nikhilgunti" />
   
   
 </p>
